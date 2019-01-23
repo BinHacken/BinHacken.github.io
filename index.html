@@ -6,63 +6,92 @@
 			* {
 				font-family: Arial;
 			}
+			
 			body {
+				padding: 1em;
+			}
+			
+			a {
+				text-decoration: none;
+				color: blue;
+				font-weight: bold;
+			}
+			
+			.centered {
 				text-align: center;
 			}
+			
 			.grid-container {
 				display: grid;
 				grid-template-columns: auto auto auto;
+				grid-row-gap: 1em;
 			}
-			.grid-item {
 			
+			.grid-item img {
+				margin-top: 1em;
+				width: 10em;
 			}
+			
+			#content {
+				width: 100%;
+				max-width: 21cm;
+				margin: 0 auto;
+			}
+
 			#logo {
-				width: 20em;
+				width: 24em;
 			}
 		</style>
 	</head>
 	<body>
-		<img alt="BinHacken Placeholder Logo" src="images/headerlogo.png" id="logo">
-		
-		<h1>Wir suchen Interessenten/innen zur Gründung eines Hackerspaces!</h1>
-		<p>
-		Du willst 3D drucken, coden, Lasercutten, Roboter bauen, Möbel und Kleidung entwerfen, 
-		eine Zombie-Verteidigungs-Pflanze züchten, deinen Teddy zum Mond schicken 
-		oder andere technische oder künstlerische Projekte umsetzen? 
-		Hast aber nicht das richtige Werkzeug, dir fehlt die Erfahrung oder du suchst einfach Inspiration?<br>
-		Dann ist der Hackerspace genau das Richtige für dich!
-		</p>
-		
-		<h2>Was ist ein Hacker/Maker-Space?</h2>
-		<p>
-		Ein Hackerspace ist ein Verein, der einen offenen Ort zum Ideenaustausch für alle bereitstellt, die sich für Wissenschaft, Technik, Handwerk oder Kunst interessieren.<br>
-		Es geht darum den Zugang zu Wissen und Werkzeug zu teilen, gemeinsam an Projekten zu arbeiten, Dinge zu reparieren, sowie Events und Workshops zu veranstalten.<br>
-		Do it yourself und Open Source stehen dabei im Vordergrund!
-		</p>
-		
-		<h2>Warum gerade Du dich engagieren sollst!</h2>
-		<p>
-		Es spielt keine Rolle, woher Du kommst, wie viel Geld du hast, wie alt du bist oder wie viel Wissen und Erfahrung Du mitbringst. Denn es geht allein darum gemeinsam Lösungen zu finden, mit dem, was man gerade zur Hand hat.<br>
-		Zusammen können wir einen offenen Ort zum Austausch von Wissen und Erfahrungen aufbauen.
-		</p>
-		
-		<p><b>Bei Interesse melde dich bei uns via:</b></p>
-		
-		 <div class="grid-container">
-		  <div class="grid-item">
-			<a>info@binhacken.de</a><br>
-			<img alt="Email Link QR Code" src="images/emailqr.png">
-		  </div>
-		  
-		  <div class="grid-item">
-			<a>twitter.com/binhacken</a><br>
-			<img alt="Twitter Link QR Code" src="images/twitterqr.png">
-		  </div>
-		  
-		  <div class="grid-item">
-			<a>discordapp.com/invite/fNzyjae</a><br>
-			<img alt="Discord Link QR Code" src="images/discordqr.png">
-		  </div>
-		</div> 
+		<div id="content">
+			<p class="centered">
+				<img alt="BinHacken Placeholder Logo" src="images/headerlogo.png" id="logo">
+			</p>
+			
+			<h1 class="centered">Wir suchen Interessenten/innen zur Gründung eines Hackerspaces!</h1>
+			<p>
+			Du willst 3D drucken, coden, Lasercutten, Roboter bauen, Möbel und Kleidung entwerfen, 
+			eine Zombie-Verteidigungs-Pflanze züchten, deinen Teddy zum Mond schicken 
+			oder andere technische oder künstlerische Projekte umsetzen? 
+			Hast aber nicht das richtige Werkzeug, dir fehlt die Erfahrung oder du suchst einfach Inspiration?<br>
+			Dann ist der Hackerspace genau das Richtige für dich!
+			</p>
+			
+			<h2 class="centered">Was ist ein Hacker/Maker-Space?</h2>
+			<p>
+			Ein Hackerspace ist ein Verein, der einen offenen Ort zum Ideenaustausch für alle bereitstellt, die sich für Wissenschaft, Technik, Handwerk oder Kunst interessieren.<br>
+			Es geht darum den Zugang zu Wissen und Werkzeug zu teilen, gemeinsam an Projekten zu arbeiten, Dinge zu reparieren, sowie Events und Workshops zu veranstalten.<br>
+			Do it yourself und Open Source stehen dabei im Vordergrund!
+			</p>
+			
+			<h2 class="centered">Warum gerade Du dich engagieren sollst!</h2>
+			<p>
+			Es spielt keine Rolle, woher Du kommst, wie viel Geld du hast, wie alt du bist oder wie viel Wissen und Erfahrung Du mitbringst. Denn es geht allein darum gemeinsam Lösungen zu finden, mit dem, was man gerade zur Hand hat.<br>
+			Zusammen können wir einen offenen Ort zum Austausch von Wissen und Erfahrungen aufbauen.
+			</p>
+			
+			<h2 class="centered">Bei Interesse melde dich bei uns via:</h2>
+			
+			 <div class="grid-container">
+			  <div class="grid-item centered">
+				<a href="mailto:info@binhacken.de">info@binhacken.de<br>
+					<img alt="Email Link QR Code" src="images/emailqr.png">
+				</a>
+			  </div>
+			  
+			  <div class="grid-item centered">
+				<a href="https://twitter.com/binhacken">twitter.com/binhacken<br>
+					<img alt="Twitter Link QR Code" src="images/twitterqr.png">
+				</a>
+			  </div>
+			  
+			  <div class="grid-item centered">
+				<a href="https://discordapp.com/invite/fNzyjae">discordapp.com/invite/fNzyjae<br>
+					<img alt="Discord Link QR Code" src="images/discordqr.png">
+				</a>
+			  </div>
+			</div> 
+		</div>
 	</body>
 </html>
