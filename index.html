@@ -8,32 +8,36 @@
 			}
 			
 			body {
-				padding: 1em;
+				padding: .5em;
 			}
 			
 			a {
 				text-decoration: none;
 				color: blue;
+				font-weight: #009dff;
 				font-weight: bold;
+				font-size: 1em;
 			}
 			
 			.centered {
 				text-align: center;
 			}
 			
-			.grid-container {
-				display: grid;
-				grid-template-columns: auto auto auto;
-				grid-row-gap: 1em;
+			@media only screen and (min-width: 650px) {
+				.grid-container {
+					display: grid;
+					grid-template-columns: auto auto auto;
+					grid-row-gap: .5em;
+				}
 			}
 			
 			.grid-item img {
 				margin-top: 1em;
+				margin-bottom: 2em;
 				width: 10em;
 			}
 			
 			#content {
-				width: 100%;
 				max-width: 21cm;
 				margin: 0 auto;
 			}
