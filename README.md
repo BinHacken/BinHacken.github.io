@@ -1,4 +1,4 @@
 # BinHacken.github.io
 BinHacken Website
 
-![binhacken.de](http://binhacken.de/)
+[binhacken.de](http://binhacken.de/)
