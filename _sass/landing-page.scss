@@ -53,8 +53,10 @@
 	}
 	
 	img {
-	    max-height: 6em;
+		height: auto;
 		width: auto;
+		max-height: 6em;
+		max-width: 100%;
 	}
 }
 
