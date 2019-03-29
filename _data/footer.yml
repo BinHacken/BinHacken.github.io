@@ -1,0 +1,32 @@
+- links:
+    - name: Home
+      link: /index.html
+    - name: Projekte
+      link: /projects/
+    - name: Termine
+      link: /calender/
+    - name: Blog
+      link: /blog/
+    - name: Kontakt
+      link: /contact/
+    - name: Impressum
+      link: /impressum/
+    - name: Datenschutz
+      link: /datenschutz/
+- links:
+    - name: Twitter
+      link: 'https://twitter.com'
+      social_icon: Twitter
+      new_window: true
+    - name: Discord
+      link: 'https://discordapp.com/invite/fNzyjae'
+      social_icon: Discord
+      new_window: true
+    - name: GitHub
+      link: 'http://github.com/binhacken'
+      social_icon: GitHub
+      new_window: true
+    - name: YouTube
+      link: 'https://www.youtube.com/channel/UCXSOejhhXH23-J42QeHmcVA'
+      social_icon: YouTube
+      new_window: true

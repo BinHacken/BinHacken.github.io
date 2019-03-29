@@ -1,0 +1,26 @@
+---
+title: Blog
+description: Aktuelle Neuigkeiten & Events
+---
+
+<div class="text-container">
+	<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong>Eintrag hinzufügen</a></p>
+	<ul class="blog-posts">
+		{% include list-posts.html posts=paginator.posts %}
+	</ul>
+
+	{% if paginator.total_pages > 1 %}
+		<!-- Pagination links -->
+		<div class="pagination">
+			{% if paginator.previous_page %}
+				<a href="{% include relative-src.html src=paginator.previous_page_path %}" class="previous btn">&larr; Neuere Enträge</a>
+			{% endif %}
+
+			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+			{% if paginator.next_page %}
+				<a href="{% include relative-src.html src=paginator.next_page_path %}" class="next btn">Ältere Einträge &rarr;</a>
+			{% endif %}
+		</div>
+	{% endif %}
+</div>

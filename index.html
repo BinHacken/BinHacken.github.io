@@ -1,122 +1,85 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<style>
-			* {
-				font-family: Arial;
-			}
-			
-			body {
-				padding: .5em;
-			}
-			
-			h1, h2, h3 {
-				margin-top: 1.5em;
-			}
-			
-			a {
-				text-decoration: none;
-				color: blue;
-				font-weight: #009dff;
-				font-weight: bold;
-				font-size: 1em;
-			}
-			
-			.centered {
-				text-align: center;
-			}
-			
-			@media only screen and (min-width: 650px) {
-				.grid-container {
-					display: grid;
-					grid-template-columns: auto auto auto;
-					grid-row-gap: .5em;
-				}
-			}
-			
-			.grid-item img {
-				margin-top: 1em;
-				margin-bottom: 2em;
-				width: 10em;
-			}
-			
-			#content {
-				max-width: 21cm;
-				margin: 0 auto;
-			}
+---
+title: Home
+description: Hacker- und Makerspace Bingen
+---
 
-			#logo {
-				width: 100%;
-				max-width: 24em;
-			}
-		</style>
-	</head>
-	<body>
-		<div id="content">
-			<p class="centered">
-				<img alt="/bin/hacken Logo" src="images/headerlogo.png" id="logo">
-			</p>
-			<!--
-			<hr>
-			<h2>Aktuelles: Arduino Day</h2>
-			<p>
-			Am 16.03 (16:00 - 18:30 Uhr) treffen wir uns im AStA an der TH Bingen zum freien basteln. 
-			<a href="/arduinoday.html">Details</a>
-			</p>
-			<hr>-->
-			
-			<h1 class="centered">Wir suchen Interessenten/innen zur Gründung eines Hackerspaces!</h1>
-			<p>
-			Du willst 3D drucken, coden, Lasercutten, Roboter bauen, Möbel und Kleidung entwerfen, 
-			eine Zombie-Verteidigungs-Pflanze züchten, deinen Teddy zum Mond schicken 
-			oder andere <b>technische</b> oder <b>künstlerische Projekte</b> umsetzen? 
-			Hast aber nicht das richtige <b>Werkzeug</b>, dir fehlt die Erfahrung oder du suchst einfach <b>Inspiration?</b><br>
-			Dann ist der Hackerspace genau das Richtige für dich!
-			</p>
-			
-			<h2 class="centered">Was ist ein Hacker-/Makerspace?</h2>
-			<p>
-			Ein Hackerspace ist ein Verein, der einen <b>offenen Ort</b> zum <b>Ideenaustausch</b> für alle bereitstellt, die sich für Wissenschaft, Technik, Handwerk oder Kunst interessieren.<br>
-			Es geht darum den Zugang zu Wissen und Werkzeug zu <b>teilen</b>, gemeinsam an Projekten zu arbeiten, Dinge zu <b>reparieren</b>, sowie <b>Events</b> und Workshops zu veranstalten.<br>
-			<b>Do it yourself</b> und <b>Open Source</b> stehen dabei im Vordergrund!
-			</p>
-			
-			<h2 class="centered">Warum gerade <b>Du</b> dich engagieren sollst!</h2>
-			<p>
-			Es spielt keine Rolle, woher Du kommst, wie viel Geld du hast, wie alt du bist oder wie viel Wissen und Erfahrung Du mitbringst. Denn es geht allein darum gemeinsam Lösungen zu finden, mit dem, was man gerade zur Hand hat.<br>
-			Zusammen können wir einen offenen Ort zum Austausch von Wissen und Erfahrungen aufbauen.
-			</p>
-			
-			<h3 class="centered">Bei Interesse melde dich bei uns via:</h3>
-			
-			 <div class="grid-container">
-			  <div class="grid-item centered">
-				<a href="mailto:info@binhacken.de">info@binhacken.de<br>
-					<img alt="Email Link QR Code" src="images/emailqr.png">
-				</a>
-			  </div>
-			  
-			  <div class="grid-item centered">
-				<a href="https://twitter.com/binhacken">twitter.com/binhacken<br>
-					<img alt="Twitter Link QR Code" src="images/twitterqr.png">
-				</a>
-			  </div>
-			  
-			  <div class="grid-item centered">
-				<a href="https://discordapp.com/invite/fNzyjae">discordapp.com/invite/fNzyjae<br>
-					<img alt="Discord Link QR Code" src="images/discordqr.png">
-				</a>
-			  </div>
-			</div> 
-			
-			<p>
-				<br>
-				<hr>
-				<br>
-				<a href="flyer.pdf">Download Flyer</a> | <a href="https://github.com/BinHacken/BinHacken.github.io">Source Code</a>
-			</p>
-			
+<section class="hero">
+	<div class="text-container">
+	    <div>
+			<img alt="Screenshot" class="editable" src="/images/logo.svg" />
 		</div>
-	</body>
-</html>
+		<h1 class="editable">
+			Hacker- &amp; Makerspace Bingen
+		</h1>
+		<!--<p class="subtext editable">
+			Track and optimize your chickens in real time.
+		</p>-->
+		<!--<div class="cta button alt"><a href="/sign-up/">Get Started Free</a></div>-->
+	</div>
+</section>
+
+<div class="content">
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>Was sind Wir</h2>
+				<p>Ein <b>offener Ort</b> zum <b>Ideenaustausch</b> f&uuml;r alle, die sich f&uuml;r Technik, Wissenschaft, Handwerk, Kunst oder Netzpolitik interessieren.</p>
+				<p>Ob Anf&auml;nger oder Fortgeschrittener, jeder kann bei uns mitmachen.</p>
+				<p>Wir teilen Wissen, Werkzeug, arbeiten gemeinsam an Projekten, <b>reparieren und modifizieren.<br />Do-It-Yourself</b> und <b>Open-Source</b> stehen dabei im Vordergrund.</p>
+			</div>
+			<div class="image">
+				<img alt="Arduino Kit" class="editable" src="/images/tech/arduinos-3.jpg" title="Arduino Kit" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>Warum <b>Hacker-/Makerspaces wichtig sind</b></h2>
+				<p>Bildungssystem und Beruf lassen wenig Freiraum f&uuml;r Kreativit&auml;t. Daher ist es wichtig Orte zu schaffen, wo man sich ausprobieren kann, die M&ouml;glichkeit hat Fehler zu machen und daraus zu lernen. Hier k&ouml;nnen wir Te<strong>chnik selbst gestalten, anstatt sie nur zu konsumieren.</strong><strong></strong></p>
+				<p><strong>Kreative L&ouml;sungen zu finden, alleine mit dem, was man gerade zur Hand hat, das ist Hacken!</strong></p>
+			</div>
+			<div class="image">
+				<img alt="Spacehuhn Badge löten" class="editable" src="/images/tech/loeten-2.jpg" title="Spacehuhn Badge löten" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2><b></b>Besuche uns<b></b></h2>
+				<p>Wir treffen uns jeden Donnerstag ab 17:30 Uhr im AStA auf dem Campus der TH Bingen zum freien Basteln/Hacken.</p>
+				<p>Komm vorbei und bring frische Ideen mit!</p>
+			</div>
+			<div class="image">
+				<img alt="34c3 LED Tunnel" class="editable" src="/images/tech/hacking-leds.jpg" title="34c3 LED Tunnel" />
+			</div>
+		</div>
+	</section>
+    
+    <!--
+	<section class="testimonial">
+		<div class="container flex">
+			<div class="testimonial-block">
+				<div class="square-image"><img alt="" class="editable" src="" /></div>
+				<blockquote>
+					<p class="editable">
+						Ich habe mal etwas wichtiges gesagt
+					</p>
+					<p class="editable author">
+						Space Huhn - Floating Space Stuff Incorp.
+					</p>
+				</blockquote>
+			</div>
+		</div>
+	</section>-->
+
+	<section class="bottom-cta">
+		<h2 class="editable">
+			Finde uns auf <a target="_blank" href="http://twitter.com/binhacken">Twitter</a>, <a target="_blank" href="https://discordapp.com/invite/fNzyjae">Discord</a>, <a target="_blank" href="http://github.com/binhacken">GitHub</a>, <a target="_blank" href="https://www.youtube.com/channel/UCXSOejhhXH23-J42QeHmcVA">YouTube</a><br />oder per Email an info[at]binhacken[.]de
+		</h2>
+		<!--<div class="button alt"><a href="#">Get Started Free</a></div>-->
+	</section>
+</div>
