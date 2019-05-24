@@ -1,4 +1,4 @@
-{% for post in include.posts %}
+{% for post in site.posts %}
 	<li class="blog-post">
 		<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
 		{% include post-title.html post=post %}
