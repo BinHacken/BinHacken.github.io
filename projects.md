@@ -1,6 +1,6 @@
 ---
 title: Projekte
-description: An was wir so arbeiten
+description: Woran wir so arbeiten
 ---
 
 ---
