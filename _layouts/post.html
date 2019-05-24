@@ -8,7 +8,6 @@ layout: page
 	<div class="post-content">
 		{{ content }}
         
-        
 		{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
 		{% assign author = site.staff_members | where: "url", author_id | first %}
 		<hr>
