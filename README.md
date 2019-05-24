@@ -1,5 +1,5 @@
-# BinHacken.github.io
-BinHacken Website
+# binhacken.github.io
+/bin/hacken Website
 
 [binhacken.de](http://binhacken.de/)
 
