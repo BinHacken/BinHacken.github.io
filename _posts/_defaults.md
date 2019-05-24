@@ -1,4 +1,5 @@
 ---
 date:
 title:
+categories: 
 ---
