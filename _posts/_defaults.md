@@ -1,5 +1,4 @@
 ---
-title:
-categories:
 date:
+title:
 ---
