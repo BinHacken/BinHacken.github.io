@@ -12,17 +12,17 @@ map:
 ### Treffpunkt
 <address>
   <a target="_blank" href="https://goo.gl/maps/xZpQTx883Tz">{{ page.map.address | replace: ", ", ", <br>" }}</a>
-</address>
+</address>  
 
 ### Email
-<a>info[at]binhacken[.]de</a>
+<a>info[at]binhacken[.]de</a>  
 
 ### Ansprechpartner
-Anatol Pomplun: <a>anatol.pomplun[at]th-bingen[.]de</a>
-Stefan Kremser: <a>stefan.kremser[at]th-bingen[.]de</a>
+Anatol Pomplun: <a>anatol.pomplun[at]th-bingen[.]de</a>  
+Stefan Kremser: <a>stefan.kremser[at]th-bingen[.]de</a>  
 
 ### Social-Media
-Twitter: [@binhacken](https://twitter.com/binhacken)
-Discord: [fNzyjae](https://discordapp.com/invite/fNzyjae)
-GitHub: [binhacken](http://github.com/binhacken)
-YouTube: [bin hacken](https://www.youtube.com/channel/UCXSOejhhXH23-J42QeHmcVA)
+Twitter: [@binhacken](https://twitter.com/binhacken)  
+Discord: [fNzyjae](https://discordapp.com/invite/fNzyjae)  
+GitHub: [binhacken](http://github.com/binhacken)  
+YouTube: [bin hacken](https://www.youtube.com/channel/UCXSOejhhXH23-J42QeHmcVA)  
