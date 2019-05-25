@@ -9,12 +9,12 @@
 		margin-bottom: 0;
 		font-size: 1.8em;
 	}
-	
+
 	a {
 	    color: #fff;
 	    text-decoration: underline;
 	}
-	
+
 	a:hover {
 	    color: #3c3c3c;
 	}
@@ -51,7 +51,7 @@
 	p {
 		color: #fff;
 	}
-	
+
 	img {
 		max-height: 6em;
 		max-width: 100%;
@@ -77,4 +77,11 @@
 	.content section:nth-child(even) .flex {
 		flex-direction: row-reverse;
 	}
+}
+
+.landing-page-container {
+	margin: 0 auto;
+	position: relative;
+	padding: 0 20px;
+	max-width: 1140px;
 }
