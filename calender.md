@@ -17,14 +17,14 @@ description:
 ### Mai 2019
 - Donnerstag 02.05 freies Basteln & Hacken ab 17:30 Uhr
 - Donnerstag 09.05 freies Basteln & Hacken ab 17:30 Uhr
-- **Mittwoch** 15.05 freies Basteln & Hacken ab 17:30 Uhr
-- Mittwoch 22.05 Industrietag an der TH-Bingen von 10:00 - 15:30 Uhr
+- **(!) Mittwoch** 15.05 freies Basteln & Hacken ab 17:30 Uhr
+- Mittwoch 22.05 Industrietag an der TH-Bingen 10:00 - 15:30 Uhr
 - Donnerstag 23.05 freies Basteln & Hacken ab 17:30 Uhr
 - Donnerstag 30.05 freies Basteln & Hacken ab 17:30 Uhr
 
 ### Juni 2019
-- **Freitag** 07.06 freies Basteln & Hacken ab 17:30 Uhr
-- **Freitag** 14.06 freies Basteln & Hacken ab 17:30 Uhr
+- **(!) Freitag** 07.06 freies Basteln & Hacken ab 17:30 Uhr
+- **(!) Freitag** 14.06 freies Basteln & Hacken ab 17:30 Uhr
 - Donnerstag 20.06 freies Basteln & Hacken ab 17:30 Uhr
 - Donnerstag 27.06 freies Basteln & Hacken ab 17:30 Uhr
 
