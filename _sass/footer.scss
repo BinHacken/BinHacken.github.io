@@ -76,13 +76,13 @@ footer {
 	.copyright {
 		font-size: .8em;
 		margin: 0 auto;
-		
+
 		@media #{$tablet} {
 			text-align: center;
 		}
 
 	}
-	
+
 	&,
 	a {
 		color: #999;
@@ -97,7 +97,7 @@ footer {
 	.footer-columns {
 		@extend %flexbox;
 		@include flex-flow(wrap);
-		margin: -10px -10px 10px -10px;
+		/*margin: -10px -10px 10px -10px;*/
 	}
 
 	a {
