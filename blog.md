@@ -5,7 +5,7 @@ description: Aktuelle Neuigkeiten & Events
 
 ### Industrietag 2019 - 22.05.2019
 
-![Industrietag 2019 Stand /bin/hacken Überblick](/images/Industrietag2019/0.jpg)
+![Industrietag 2019 Stand /bin/hacken Überblick](/images/industrietag2019/0.jpg)
 
 Auch wir waren mit am Start auf dem Industrie- und Informatiktag an der TH Bingen.  
 
@@ -14,7 +14,7 @@ Wir konnten Kontakte zu Unternehmen knüpfen und neue Mitglieder gewinnen.
 
 Heiß begehrt waren unsere 3D-Drucker und der selbstgebaute 3D-Scanner.  
 
-![Industrietag 2019 Stand /bin/hacken Laptop](/images/Industrietag2019/1.jpg)
+![Industrietag 2019 Stand /bin/hacken Laptop](/images/industrietag2019/1.jpg)
 
 Vielen Dank an alle, die geholfen und uns unterstützt haben!  
 Alles in allem sind wir mit dem Event sehr zufrieden und freuen uns schon auf das nächste Jahr.  
