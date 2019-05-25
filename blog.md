@@ -7,26 +7,18 @@ description: Aktuelle Neuigkeiten & Events
 
 ### Arduino Day 2019 - 16.03.2019
 
-![Arduino Day 2019 Zertifikat](/images/arduinoday2019/arduinod19_zertifikat.jpg)  
+![Arduino Day 2019 Karte](/images/arduinoday2019/arduinod19_map.jpg)  
 
 Arduino Day ist die Geburtstagsfeier von Arduino, ausgetragen in Form von weltweiten Community-Events.
 Arduino ist eine Open-Source-Plattform um Mikrokontroller und deren Programmierung zugänglicher zu gestalten und den Menschen nahezubringen.  
 
-![Arduino Day 2019 Karte](/images/arduinoday2019/arduinod19_map.jpg)  
 Wir haben die Chance genutzt und gemeinsam an verschiedenen Projekten gearbeitet.  
 
-![Breadboard PC](/images/arduinoday2019/2.jpg)  
-Wo einige erst den Einstieg in die Welt von Arduino finden, bauen andere gleich einen ganzen Computer auf dem Breadboard.  
-
 ![LEDs](/images/arduinoday2019/3.jpg)  
-Natürlich dürfen LEDs nicht fehlen und ein paar Knöpfe können auch nicht schaden.  
 
-![Arduino Buttons](/images/arduinoday2019/4.jpg)  
-![Laptop und Electronik](/images/arduinoday2019/1.jpg)  
+Vielen Dank an alle Anwesenden, die mitgemacht und geholfen haben!  
 
-Vielen Dank an alle Anwesenden die mitgemacht und geholfen haben!  
-
-Außerdem Danke an den AStA, der uns die Räumlichkeiten zur verfügung gestellt hat.  
+Außerdem Danke an den AStA, der uns die Räumlichkeiten zur Verfügung gestellt hat.  
 Nächstes Jahr hoffen wir auf noch mehr Interessierte, auch gerne von außerhalb der TH!  
 
 ---
