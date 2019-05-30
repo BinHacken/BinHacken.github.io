@@ -32,7 +32,7 @@ Das heißt übertragen, das Handy bleibt permanent in einer Hülle, und falls ei
 
 Das Ziel ist es eine Hülle zu designen, die Flach genug ist, um sie komfortabel mit sich zu tragen und dennoch die Sticks anschließen zu können.  
 
-![Handycontroller](/images/projects/Handycontroller.jpg)  
+![Handycontroller](/images/projects/handycontroller.jpg)  
 
 ---
 
