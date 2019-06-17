@@ -29,5 +29,5 @@ description:
 - Donnerstag 27.06 freies Basteln & Hacken ab 17:30 Uhr
 
 ### Juli 2019
-- Donnerstag 04.07 freies Basteln & Hacken ab 17:30 Uhr
+- **(!) Freitag** 05.07 freies Basteln & Hacken ab 17:30 Uhr
 - Donnerstag 11.07 freies Basteln & Hacken ab 17:30 Uhr

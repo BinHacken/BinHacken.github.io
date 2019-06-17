@@ -15,7 +15,7 @@ Eine modifizierte Version von [Ben Eater's 8 Bit Computer](https://eater.net/8bi
 
 ### 3D Scanner
 
-Ein selbstgebauter Drehtisch um mit Photogrammetrie Objekte zu 'scannen' und daraus 3D Modelle auf dem Computer zu erstellen.
+Ein selbstgebauter Drehtisch um mit Photogrammmetrie Objekte zu 'scannen' und daraus 3D Modelle auf dem Computer zu erstellen.
 Nach dem Bauplan von [OpenScan](https://www.openscan.eu/).
 
 ![3D Scanner](/images/projects/3dscanner_1.jpg)  
