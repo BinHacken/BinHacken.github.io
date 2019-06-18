@@ -30,4 +30,5 @@ description:
 
 ### Juli 2019
 - **(!) Freitag** 05.07 freies Basteln & Hacken ab 17:30 Uhr
+- Dienstag 09.07 Filmabend im AStA ab 19:00 Uhr [All Creatures Welcome](https://sandratrostel.de/acw/)
 - Donnerstag 11.07 freies Basteln & Hacken ab 17:30 Uhr
