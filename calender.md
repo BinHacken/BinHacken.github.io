@@ -13,6 +13,7 @@ description:
 - Donnerstag 11.04 freies Basteln & Hacken ab 17:30 Uhr
 - Samstag 13.04 Hochschulinfotag 10:00 - 14:00 Uhr
 - Donnerstag 18.04 freies Basteln & Hacken ab 17:30 Uhr
+- Donnerstag 25.04 freies Basteln & Hacken ab 17:30 Uhr
 
 ### Mai 2019
 - Donnerstag 02.05 freies Basteln & Hacken ab 17:30 Uhr
