@@ -18,6 +18,10 @@
       link: 'https://twitter.com/binhacken'
       social_icon: Twitter
       new_window: true
+    - name: Instagram
+      link: 'https://www.instagram.com/binhacken/'
+      social_icon: Instagram
+      new_window: true
     - name: Discord
       link: 'https://discordapp.com/invite/fNzyjae'
       social_icon: Discord
