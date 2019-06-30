@@ -23,7 +23,7 @@ Stefan Kremser: <a>stefan.kremser[at]th-bingen[.]de</a>
 
 ### Social-Media
 Twitter: [@binhacken](https://twitter.com/binhacken)  
-Instagram: [binhacken](https://www.instagram.com/binhacken/)
+Instagram: [binhacken](https://www.instagram.com/binhacken/)  
 Discord: [fNzyjae](https://discordapp.com/invite/fNzyjae)  
 GitHub: [binhacken](http://github.com/binhacken)  
 YouTube: [bin hacken](https://www.youtube.com/channel/UCXSOejhhXH23-J42QeHmcVA)  
