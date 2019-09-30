@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="de">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Hacker- & Makerspace Bingen</title>
+
+  <meta name="description" content="Hacker- &amp; Makerspace Bingen">
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+  <script>
+    function goto(div) {
+      var elmnt = document.getElementById(div).scrollIntoView();
+      window.scrollTo(window.scrollX, window.scrollY - 80);
+    }
+  </script>
+</head>
+
+<body>
+
+  <!-- [===== HEADER =====] -->
+  <header>
+    <div class="container">
+
+      <div class="company-name">
+        <a href="#">
+          <img src="images/logo.png" alt="binhacken Logo" width="95" height="33">
+        </a>
+      </div>
+
+      <nav>
+        <a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+        <a onclick="goto('home')">Home</a>
+        <a onclick="goto('termine')">Termine</a>
+        <a onclick="goto('ueberuns')">Über uns</a>
+        <a onclick="goto('kontakt')">Kontakt</a>
+      </nav>
+
+    </div>
+  </header>
+
+  <!-- [========== CONTENT ==========] -->
+  <div class="content">
+
+    <!-- [===== HOME =====] -->
+    <section id="home">
+      <div class="container flex">
+
+        <div class="text">
+          <h2>Hacker- & Makerspace Bingen</h2>
+
+          <p>Wir bauen, wir basteln, wir machen, wir hacken!</p>
+          <p>Eine offene Werkstatt für Interessierte im Bereich Technik, Wissenschaft, Handwerk, Kunst und Netzpolitik.</p>
+        </div>
+
+        <div class="image">
+          <img alt="Breadboard hacking" src="images/makerman.jpg">
+        </div>
+
+      </div>
+    </section>
+
+    <section>
+      <div class="container flex reverse">
+
+        <div class="text">
+          <p>Konsumiere Technik nicht einfach, gestalte sie selbst!</p>
+          <p>"Ein Hacker ist jemand, der versucht einen Weg zu finden, wie man mit einer Kaffeemaschine Toast zubereiten kann" ~ Wau Holland</p>
+          <p>
+            <a href="https://www.ccc.de/de/hackerethik" target="_blank">▶ Hackerethik</a>
+          </p>
+        </div>
+
+        <div class="image">
+          <img alt="Hacking the mainframe" src="images/hackerman.jpg">
+        </div>
+
+      </div>
+    </section>
+
+    <hr>
+
+    <!-- [===== TERMINE =====] -->
+    <section id="termine">
+      <div class="container">
+        <h2>Termine</h2>
+
+        <p id="treffen">Regelmäßige Treffen:</p>
+        <ul>
+          <li>Montags ab 16:00 Uhr offene Werkstatt im JuZ</li>
+          <li>Donnerstags ab 17:30 Uhr gemütliches Hacken im AStA</li>
+        </ul>
+
+        <p id="events">Events:</p>
+        <ul>
+          <li>Samstag 05.10 Erstitag im AStA 10:00 - 14:00 Uhr</li>
+          <li>
+            Fr 11. - So 13.10 Python Gamejam im AStA<br>
+            &ensp;Freitag ab 17:30 Uhr<br>
+            &ensp;Samstag 10:00 - 20:00 Uhr<br>
+            &ensp;Sonntag 10:00 - 20:00 Uhr<br>
+          </li>
+          <li>Donnerstag 24.10 Lötworkshop im AStA ab 16:00 Uhr</li>
+        </ul>
+      </div>
+    </section>
+
+    <hr>
+
+    <!-- [===== ABOUT =====] -->
+    <section id="ueberuns">
+      <div class="container flex">
+        <div class="text">
+          <h2>Über uns</h2>
+          <p>
+            Wir sind eine selbständige Initiative von technik-interessierten Studierenden.<br>
+            <br>
+            Ob Anfänger oder Fortgeschrittener, jeder kann bei uns mitmachen!
+          </p>
+
+          <h3>Gemütliches Hacken im AStA</h3>
+          <p>
+            Donnerstags treffen wir uns im AStA und tauschen uns zu verschiedenen Themen aus.
+          </p>
+
+          <h3>Offene Werkstatt im JuZ</h3>
+          <p>
+            Montags öffnen wir die Werkstatt vom JuZ und basteln an verschiedenen Projekten.
+          </p>
+        </div>
+        <div class="image">
+          <a target="_blank" href="https://www.flickr.com/people/binhacken">
+            <img alt="Thumbs up to club mate" src="images/tisch.jpg">
+          </a>
+          <p>
+            <a target="_blank" href="https://www.flickr.com/people/binhacken">
+              ▶ Bildergalerie auf Flickr
+            </a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <hr>
+
+    <!-- [===== CONTACT =====] -->
+    <section id="kontakt">
+      <div class="container">
+        <h2>Kontakt</h2>
+
+        <h3 id="treffpunkt">AStA</h3>
+        <address>
+          <a target="_blank" href="https://goo.gl/maps/Jfan3EaSkiVEK9Ag8">
+            TH-Bingen AStA,<br>
+            Berlinstraße 109,<br>
+            55411 Bingen am Rhein
+          </a>
+        </address>
+
+        <h3 id="treffpunkt">JuZ Werkstatt</h3>
+        <address>
+          <a target="_blank" href="https://goo.gl/maps/xZpQTx883Tz">
+            Jugendzentrum in Selbstverwaltung Altes Badhaus Bingen e.V.,<br>
+            Mainzer Str. 103A,<br>
+            55411 Bingen am Rhein
+          </a>
+        </address>
+
+        <h3 id="email">Email</h3>
+        <p><a href="mailto:info@binhacken.de">info@binhacken.de</a></p>
+
+        <h3>Ansprechpartner</h3>
+
+        <p>
+          Anatol Pomplun: <a href="mailto:anatol.pomplun@th-bingen.de">anatol.pomplun@th-bingen.de</a></a>
+          <br>
+          Stefan Kremser: <a href="mailto:stefan.kremser@th-bingen.de">stefan.kremser@th-bingen.de</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- [===== BADGE =====] -->
+    <section class="bottom-cta">
+      <h2>
+        Begegne uns digital auf
+        <a target="_blank" href="https://twitter.com/binhacken">Twitter</a>,
+        <a target="_blank" href="https://instagram.com/binhacken">Instagram</a>,
+        <a target="_blank" href="https://flickr.com/people/binhacken">Flickr</a>,
+        <a target="_blank" href="https://discordapp.com/invite/fNzyjae">Discord</a>
+      </h2>
+    </section>
+
+  </div>
+
+  <!-- [========== FOOTER ==========] -->
+  <footer>
+    <div class="main-container">
+      <div class="footer-columns">
+
+        <ul class="footer-links">
+          <li><a onclick="goto('home')">Home</a></li>
+          <li><a onclick="goto('termine')">Termine</a></li>
+          <li><a onclick="goto('ueberuns')">Über uns</a></li>
+          <li><a onclick="goto('kontakt')">Kontakt</a></li>
+        </ul>
+
+        <ul class="footer-links">
+          <li>
+            <a target="_blank" href="https://twitter.com/binhacken" class="Twitter-icon">
+              <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M22.46,6C21.69,6.35 20.86,6.58 20,6.69C20.88,6.16 21.56,5.32 21.88,4.31C21.05,4.81 20.13,5.16 19.16,5.36C18.37,4.5 17.26,4 16,4C13.65,4 11.73,5.92 11.73,8.29C11.73,8.63 11.77,8.96 11.84,9.27C8.28,9.09 5.11,7.38 3,4.79C2.63,5.42 2.42,6.16 2.42,6.94C2.42,8.43 3.17,9.75 4.33,10.5C3.62,10.5 2.96,10.3 2.38,10C2.38,10 2.38,10 2.38,10.03C2.38,12.11 3.86,13.85 5.82,14.24C5.46,14.34 5.08,14.39 4.69,14.39C4.42,14.39 4.15,14.36 3.89,14.31C4.43,16 6,17.26 7.89,17.29C6.43,18.45 4.58,19.13 2.56,19.13C2.22,19.13 1.88,19.11 1.54,19.07C3.44,20.29 5.7,21 8.12,21C16,21 20.33,14.46 20.33,8.79C20.33,8.6 20.33,8.42 20.32,8.23C21.16,7.63 21.88,6.87 22.46,6Z">
+              </svg>
+              Twitter
+            </a>
+          </li>
+
+          <li>
+            <a target="_blank" href="https://www.instagram.com/binhacken/" class="Instagram-icon">
+              <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M7.8,2H16.2C19.4,2 22,4.6 22,7.8V16.2A5.8,5.8 0 0,1 16.2,22H7.8C4.6,22 2,19.4 2,16.2V7.8A5.8,5.8 0 0,1 7.8,2M7.6,4A3.6,3.6 0 0,0 4,7.6V16.4C4,18.39 5.61,20 7.6,20H16.4A3.6,3.6 0 0,0 20,16.4V7.6C20,5.61 18.39,4 16.4,4H7.6M17.25,5.5A1.25,1.25 0 0,1 18.5,6.75A1.25,1.25 0 0,1 17.25,8A1.25,1.25 0 0,1 16,6.75A1.25,1.25 0 0,1 17.25,5.5M12,7A5,5 0 0,1 17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12A5,5 0 0,1 12,7M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9Z">
+              </svg>
+              Instagram
+            </a>
+          </li>
+
+          <li>
+            <a target="_blank" href="https://discordapp.com/invite/fNzyjae" class="Discord-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="#000000" viewBox="0 0 245 240">
+                <path class="st0" d="M104.4 103.9c-5.7 0-10.2 5-10.2 11.1s4.6 11.1 10.2 11.1c5.7 0 10.2-5 10.2-11.1.1-6.1-4.5-11.1-10.2-11.1zM140.9 103.9c-5.7 0-10.2 5-10.2 11.1s4.6 11.1 10.2 11.1c5.7 0 10.2-5 10.2-11.1s-4.5-11.1-10.2-11.1z" />
+                <path class="st0"
+                  d="M189.5 20h-134C44.2 20 35 29.2 35 40.6v135.2c0 11.4 9.2 20.6 20.5 20.6h113.4l-5.3-18.5 12.8 11.9 12.1 11.2 21.5 19V40.6c0-11.4-9.2-20.6-20.5-20.6zm-38.6 130.6s-3.6-4.3-6.6-8.1c13.1-3.7 18.1-11.9 18.1-11.9-4.1 2.7-8 4.6-11.5 5.9-5 2.1-9.8 3.5-14.5 4.3-9.6 1.8-18.4 1.3-25.9-.1-5.7-1.1-10.6-2.7-14.7-4.3-2.3-.9-4.8-2-7.3-3.4-.3-.2-.6-.3-.9-.5-.2-.1-.3-.2-.4-.3-1.8-1-2.8-1.7-2.8-1.7s4.8 8 17.5 11.8c-3 3.8-6.7 8.3-6.7 8.3-22.1-.7-30.5-15.2-30.5-15.2 0-32.2 14.4-58.3 14.4-58.3 14.4-10.8 28.1-10.5 28.1-10.5l1 1.2c-18 5.2-26.3 13.1-26.3 13.1s2.2-1.2 5.9-2.9c10.7-4.7 19.2-6 22.7-6.3.6-.1 1.1-.2 1.7-.2 6.1-.8 13-1 20.2-.2 9.5 1.1 19.7 3.9 30.1 9.6 0 0-7.9-7.5-24.9-12.7l1.4-1.6s13.7-.3 28.1 10.5c0 0 14.4 26.1 14.4 58.3 0 0-8.5 14.5-30.6 15.2z" />
+              </svg>
+              Discord
+            </a>
+          </li>
+
+          <li>
+            <a target="_blank" href="https://github.com/binhacken" class="GitHub-icon">
+              <svg fill="#000000" width="24px" height="24px" viewBox="0 0 438.549 438.549" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M409.132,114.573c-19.608-33.596-46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365	c-39.781,0-76.472,9.804-110.063,29.408c-33.596,19.605-60.192,46.204-79.8,79.8C9.803,148.168,0,184.854,0,224.63	c0,47.78,13.94,90.745,41.827,128.906c27.884,38.164,63.906,64.572,108.063,79.227c5.14,0.954,8.945,0.283,11.419-1.996	c2.475-2.282,3.711-5.14,3.711-8.562c0-0.571-0.049-5.708-0.144-15.417c-0.098-9.709-0.144-18.179-0.144-25.406l-6.567,1.136	c-4.187,0.767-9.469,1.092-15.846,1c-6.374-0.089-12.991-0.757-19.842-1.999c-6.854-1.231-13.229-4.086-19.13-8.559	c-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559	c-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-0.951-2.568-2.098-3.711-3.429c-1.142-1.331-1.997-2.663-2.568-3.997	c-0.572-1.335-0.098-2.43,1.427-3.289c1.525-0.859,4.281-1.276,8.28-1.276l5.708,0.853c3.807,0.763,8.516,3.042,14.133,6.851	c5.614,3.806,10.229,8.754,13.846,14.842c4.38,7.806,9.657,13.754,15.846,17.847c6.184,4.093,12.419,6.136,18.699,6.136	c6.28,0,11.704-0.476,16.274-1.423c4.565-0.952,8.848-2.383,12.847-4.285c1.713-12.758,6.377-22.559,13.988-29.41	c-10.848-1.14-20.601-2.857-29.264-5.14c-8.658-2.286-17.605-5.996-26.835-11.14c-9.235-5.137-16.896-11.516-22.985-19.126	c-6.09-7.614-11.088-17.61-14.987-29.979c-3.901-12.374-5.852-26.648-5.852-42.826c0-23.035,7.52-42.637,22.557-58.817	c-7.044-17.318-6.379-36.732,1.997-58.24c5.52-1.715,13.706-0.428,24.554,3.853c10.85,4.283,18.794,7.952,23.84,10.994 c5.046,3.041,9.089,5.618,12.135,7.708c17.705-4.947,35.976-7.421,54.818-7.421s37.117,2.474,54.823,7.421l10.849-6.849	c7.419-4.57,16.18-8.758,26.262-12.565c10.088-3.805,17.802-4.853,23.134-3.138c8.562,21.509,9.325,40.922,2.279,58.24 c15.036,16.18,22.559,35.787,22.559,58.817c0,16.178-1.958,30.497-5.853,42.966c-3.9,12.471-8.941,22.457-15.125,29.979	c-6.191,7.521-13.901,13.85-23.131,18.986c-9.232,5.14-18.182,8.85-26.84,11.136c-8.662,2.286-18.415,4.004-29.263,5.146 c9.894,8.562,14.842,22.077,14.842,40.539v60.237c0,3.422,1.19,6.279,3.572,8.562c2.379,2.279,6.136,2.95,11.276,1.995	c44.163-14.653,80.185-41.062,108.068-79.226c27.88-38.161,41.825-81.126,41.825-128.906	C438.536,184.851,428.728,148.168,409.132,114.573z">
+              </svg>
+              GitHub
+            </a>
+          </li>
+
+          <li>
+            <a target="_blank" href="https://www.youtube.com/channel/UCXSOejhhXH23-J42QeHmcVA" class="YouTube-icon">
+              <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M10,16.5V7.5L16,12M20,4.4C19.4,4.2 15.7,4 12,4C8.3,4 4.6,4.19 4,4.38C2.44,4.9 2,8.4 2,12C2,15.59 2.44,19.1 4,19.61C4.6,19.81 8.3,20 12,20C15.7,20 19.4,19.81 20,19.61C21.56,19.1 22,15.59 22,12C22,8.4 21.56,4.91 20,4.4Z">
+              </svg>
+              YouTube
+            </a>
+          </li>
+
+          <li>
+            <a target="_blank" href="https://www.flickr.com/photos/binhacken" class="Flickr-icon">
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" xml:space="preserve">
+                <g id="flickr">
+                  <path d="M6.5,7c-2.75,0-5,2.25-5,5s2.25,5,5,5s5-2.25,5-5S9.25,7,6.5,7z M17.5,7c-2.75,0-5,2.25-5,5s2.25,5,5,5s5-2.25,5-5   S20.25,7,17.5,7z">
+                </g>
+              </svg>
+              Flickr
+            </a>
+          </li>
+        </ul>
+
+      </div>
+
+      <p>
+        <br>
+        <small>Wir erheben und speichern keine persönlichen Daten auf dieser Website.</small>
+      </p>
+
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("open-nav").onclick = function() {
+      document.body.classList.toggle("nav-open");
+      return false;
+    };
+  </script>
+
+</body>
+
+</html>
