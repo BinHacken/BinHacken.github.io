@@ -1,0 +1,93 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== "Dark Theme ===== */
+body {
+    background: #3c3c3c;
+    color: #fff;
+} 
+
+a{
+    color: #00a4ca;
+}
+
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 {
+    color: #20c20e;
+}
+
+/* ===== Funny cursor ===== */
+* {
+    cursor: url(../../images/cursor.png) 4 12, auto;
+}
+
+a, button {
+    cursor: url(../../images/cursor2.png) 4 12, pointer;
+}
+
+/* ===== Page Header ===== */
+.page-header {
+    background-image: none;
+    background: #232323;
+    border-bottom: 5px solid #20c20e;
+    padding: 0;
+    padding-top: 1rem;
+}
+
+.page-header .logo {
+    height: 3.25rem;
+}
+
+.project-tagline {
+    margin: 1rem;
+}
+
+.page-header nav a {
+    display: inline-block;
+    padding: 20px 10px;
+    border-bottom: 1px solid transparent;
+    color: rgba(255, 255, 255, .8);
+    transition: .2s ease-in-out;
+}
+  
+.page-header nav a:hover,
+.page-header nav a.active {
+    background: #20c20e;
+    color: #fff;
+    text-decoration: none;
+}
+
+/* ===== Le buttons ===== */
+.button a, input[type=submit] {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 30px;
+    background: #4182e4;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    transition: .2s ease-in-out;
+}
+  
+.button a:hover, input[type=submit]:hover {
+    background: #4182e4;
+    cursor: url(../../images/cursor2.png) 4 12, pointer;
+}
+  
+.button.alt a {
+    background: rgba(255, 255, 255, .15);
+    border-radius: 3px;
+    border: 1px solid transparent;
+    padding: 16px 50px;
+}
+  
+.button.alt a:hover {
+    background: #fff;
+    color: #4182e4;
+}
+
