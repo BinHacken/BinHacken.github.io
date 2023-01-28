@@ -1,6 +1,6 @@
 # Verein (work in progress)
 
-![3D gedrucktes Sparschwein](images/oink.jpg)
+![Work in progress](images/saw.gif)
 
 Um unser langfristiges Ziel zu erreichen, einen Hackerspace zu gründen, arbeiten wir derzeit daran einen Verein zu gründen.  
 Dabei suchen wir aktiv nach geeigneten Standorten für unseren Space. Wenn du uns dabei unterstützen möchtest, bist du herzlich eingeladen, an unseren offenen Treffen teilzunehmen oder dich mit uns in Verbindung zu setzen.  
