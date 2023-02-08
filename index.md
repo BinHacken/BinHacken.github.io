@@ -14,7 +14,7 @@ Wir sind meistens 5-10 Personen, es gibt Getränke, und oft bestellen wir auch E
 
 ## Kommunikationskanäle
 
-* [Discord Server](https://discordapp.com/invite/fNzyjae)
+* [Discord Server](https://discord.gg/A8YXme6eJK) 
 * Email: [info@binhacken.de](mailto:info@binhacken.de)
 * Weiteres ist in arbeit 
 
