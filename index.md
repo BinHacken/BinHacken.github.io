@@ -27,12 +27,12 @@ Unsere Treffen begannen im Jahr 2019 im AStA der TH Bingen, da viele von uns Stu
 Aufgrund der Corona-Pandemie mussten wir unsere Treffen leider einstellen, nutzen aber unseren [Discord-Server](https://discordapp.com/invite/fNzyjae) weiter als Online-Treffpunkt, der auch als Lernplattform von anderen Studierenden benutzt wird.  
 Glücklicherweise ist es uns nun aufgrund der verbesserten Lage wieder möglich, uns in Person zu treffen. 
 Unser aktueller Treffpunkt ist das [Juz Bingen](https://www.juz-bingen.de/).  
-Derzeit befinden wir uns in der Vereinsgründung, um unserem Ziel, einen Hackerspace zu eröffnen, einen Schritt näherzukommen. 
+Seit 2023 sind wir ein gemeinnütziger, eingetragener Verein. In dieser Struktur wollen wir unserem Ziel, einen Hackerspace zu eröffnen, einen Schritt näherkommen. 
 
 ## Was sind Hacker
 
 Hacker sind Personen, die kreativ mit Technik umgehen und den offenen Umgang mit Wissen und das Austauschen in Gruppen schätzen.  
-Wir halten uns an die [Hacker-Ethik](https://www.ccc.de/hackerethik), was es uns verbietet Dinge zu hacken, für die wir keine erlaubnis haben. Demnach basteln wir meist nur an eigenen Projekten oder helfen uns gegenseitig aus.
+Wir halten uns an die [Hacker-Ethik](https://www.ccc.de/hackerethik), was es uns verbietet Dinge zu hacken, für die wir keine Erlaubnis haben. Demnach basteln wir meist nur an eigenen Projekten oder helfen uns gegenseitig aus.
 
 ## Was ist ein Hackerspace
 
