@@ -3,6 +3,7 @@
 ## Chaostreff
 
 Wir treffen uns dienstags um 19 Uhr im [JuZ Bingen](https://www.juz-bingen.de/).  
+(Manchmal treffen wir uns auch an anderen Tagen, frag uns gerne, falls du dienstags nicht kannst.)
 
 [Mainzer Straße 103a](https://www.openstreetmap.org/node/1613115329)  
 Der Eingang ist auf der Rückseite, links durchs Tor.  
@@ -14,9 +15,11 @@ Wir sind meistens 5-10 Personen, es gibt Getränke, und oft bestellen wir auch E
 
 ## Kommunikationskanäle
 
+* [Matrix Server](https://matrix.to/#/#binhacken:matrix.org)
 * [Discord Server](https://discord.gg/A8YXme6eJK) 
 * Email: [info@binhacken.de](mailto:info@binhacken.de)
-* Weiteres ist in arbeit 
+
+Auch nützlich, unser [Wiki](https://wiki.binhacken.de/index.php/Hauptseite).  
 
 ## Über uns
 
