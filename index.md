@@ -3,7 +3,7 @@
 ## Chaostreff
 
 Wir treffen uns dienstags um 19 Uhr im [JuZ Bingen](https://www.juz-bingen.de/).  
-(Manchmal treffen wir uns auch an anderen Tagen, frag uns gerne, falls du dienstags nicht kannst.)
+(Manchmal treffen wir uns auch zusätzlich an anderen Tagen, frag uns gerne, falls du dienstags nicht kannst.)
 
 [Mainzer Straße 103a](https://www.openstreetmap.org/node/1613115329)  
 Der Eingang ist auf der Rückseite, links durchs Tor.  
