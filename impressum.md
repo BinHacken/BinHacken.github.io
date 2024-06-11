@@ -9,9 +9,9 @@ Vereinsregister: VR 42292
 Registergericht: Amtsgericht Mainz
 
 Vertreten durch:
-Stefan Kremser
 Peter Baußmann
-Tobias Zinke
+Leopold Ott
+Stefan Kremser
 
 Kontakt
 E-Mail: info@binhacken.de
