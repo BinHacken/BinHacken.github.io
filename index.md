@@ -16,7 +16,8 @@ Wir sind meistens 5-10 Personen, es gibt Getränke, und oft bestellen wir auch E
 ## Kommunikationskanäle
 
 * [Matrix Server](https://matrix.to/#/#binhacken:matrix.org)
-* [Discord Server](https://discord.gg/A8YXme6eJK) 
+* [Discord Server](https://discord.gg/A8YXme6eJK)
+* <a href="https://chaos.social/@binhacken" rel="me">Mastodon</a>
 * Email: [info@binhacken.de](mailto:info@binhacken.de)
 
 Auch nützlich, unser [Wiki](https://wiki.binhacken.de/index.php/Hauptseite).  
