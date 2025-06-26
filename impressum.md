@@ -10,7 +10,7 @@ Registergericht: Amtsgericht Mainz
 
 Vertreten durch:
 Peter Baußmann
-Leopold Ott
+Martin Koch
 Stefan Kremser
 
 Kontakt
