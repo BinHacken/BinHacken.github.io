@@ -10,16 +10,12 @@ Wir suchen ständig nach neuen Mitgliedern und helfenden Händen, um unsere Ziel
 
 Hier findest du unsere [Satzung](https://wiki.binhacken.de/index.php/Verein/Satzung) und die [Beitragsordnung](https://wiki.binhacken.de/index.php/Verein/Beitragsordnung).  
 
-Fülle unseren [Mitgliedsantrag](/assets/mitgliedsantrag.pdf) aus und schicke ihn uns per Email (siehe Homepage). 
-
-Alternativ kannst du auch unseren online Mitgliedsantrag ausfüllen: 
+Du kannst unseren Mitgliedsantrag online ausfüllen: 
 1. Öffne unser [Vereinsprofil](https://web.meinverein.de/profile/66336)
 2. Auf dieser Seite klicke auf den Button "Beitreten"
-3. Du wirst aufgefordert ein Buhl-Konto anzulegen. Bitte leg dieses an.
-4. Jetzt kannst du den Mitgliedsantrag ausfüllen und absenden.
+3. Jetzt kannst du den Mitgliedsantrag ausfüllen und absenden.
 
-Warum ein Buhl-Konto?
-Wir verwenden zur Vereinsverwaltung Wiso MeinVerein. Die Einrichtung des Buhl-Kontos geht ganz schnell, es ist kostenfrei und ohne Verpflichtungen. Wenn du bereits ein Buhl-Konto hast (weil du zum Beispiel Wiso-Steuer nutzt), dann kannst du dieses selbstverständlich für die Anmeldung nutzen.
+Alternativ kannst du auch den [Mitgliedsantrag als PDF](/assets/mitgliedsantrag.pdf) ausfüllen und uns per Email (siehe Homepage) schicken.
 
 ## Warum machen wir das
 
