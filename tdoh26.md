@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Tag des offenen Hackspace
-hide_title: true
+title: Tag des offenen Hackspace 2026
+hide_title: false
 ---
+
+_(Auf dem [CCC Event Blog](https://events.ccc.de/2026/02/28/tag-des-offenen-hackspace-2026/) findest du zusätzlich die übergreifende Ankündigung zum Tag des offenen Hackspace 2026.)_
 
 ## Samstag 28.03.2026 ab 14:00 Uhr
 
@@ -10,7 +12,7 @@ Am Samstag, den 28.03. laden wir euch herzlich zum Tag des offenen Hackspace ein
 
 ## Was ist ein Hackspace?
 
-Ein Hackerspace ist ein gemeinschaftlich organisierter Raum, in dem technikinteressierte Menschen gemeinsam an Projekten arbeiten. Werkzeuge, Infrastruktur und Wissen werden offen geteilt, getragen durch einen gemeinnützigen Verein. Im Mittelpunkt stehen Austausch, gemeinsames Lernen, Open-Source-Kultur und der Spaß am Gerät. Offen für alle, die neugierig sind.
+Ein Hackspace ist ein gemeinschaftlich organisierter Raum, in dem technikinteressierte Menschen gemeinsam an Projekten arbeiten. Werkzeuge, Infrastruktur und Wissen werden offen geteilt, getragen durch einen gemeinnützigen Verein. Im Mittelpunkt stehen Austausch, gemeinsames Lernen, Open-Source-Kultur und der Spaß am Gerät. Offen für alle, die neugierig sind.
 
 ## Was erwartet euch?
 
