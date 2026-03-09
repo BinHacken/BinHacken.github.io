@@ -27,7 +27,10 @@ Am 3. Mai von 14:00 bis 17:00 Uhr lädt /bin/hacken zum zweiten Digital Independ
 ## Wo?
 Im Hacking Space auf dem Racke-Gelände (ehemalig VHS), [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
 
+
 ![Eingang Racke-Gelände](/assets/images/racke-klein.jpeg)
+<a href="https://www.openstreetmap.org/copyright"><sup>Map data from Openstreetmap</sup></a>
+
 
 </div>
 
