@@ -36,3 +36,4 @@ Hinweis:
 Bei dem alten Mensa Gebäude ins Treppenhaus gehen, die Treppe hoch und die erste Tür links ist unser Raum (auch erkennbar an den Stickern).
 
 ![Eingang Racke-Gelände](/assets/images/racke-klein.jpeg)
+<a href="https://www.openstreetmap.org/copyright"><sup>Map data from Openstreetmap</sup></a>
