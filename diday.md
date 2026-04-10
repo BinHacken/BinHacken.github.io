@@ -22,15 +22,10 @@ Den Aufruf zum DiDay findest du [hier](https://media.ccc.de/v/39c3-die-kanguru-r
 
 ### 03.05.2026 14:00 - 17:00 Uhr
 
-Am 3. Mai von 14:00 bis 17:00 Uhr lädt /bin/hacken zum zweiten Digital Independence Day in den Hacking und Makingspace in der Gaustraße ein.
+Am 3. Mai von 14:00 bis 17:00 Uhr lädt /bin/hacken zum zweiten Digital Independence Day in das Stadtteilzentrum ZwoZwo ein.
 
 ## Wo?
-Im Hacking Space auf dem Racke-Gelände (ehemalig VHS), [Gaustraße 22-32](https://osm.org/go/0DeC9Pirx?m=)
-
-
-![Eingang Racke-Gelände](/assets/images/racke-klein.jpeg)
-<a href="https://www.openstreetmap.org/copyright"><sup>Map data from Openstreetmap</sup></a>
-
+Im Stadtteilzentrum ZwoZwo, Erdgeschoss, [Koblenzer Straße 22](https://www.openstreetmap.org/way/733595264#map=18/49.965630/7.888012)
 
 </div>
 
