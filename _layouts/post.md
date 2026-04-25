@@ -4,7 +4,7 @@ layout: default
 
 <article class="post">
     <p>
-        {{ page.date | date: "%Y-%m-%d" }}
+        {{ page.date | date: "%d.%m.%Y" }}
         {% if page.author %}
         von <i>{{ page.author }}</i>
         {% endif %}
