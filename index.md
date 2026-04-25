@@ -9,7 +9,7 @@ hide_title: true
 Wir sind eine Gruppe technikbegeisterter Menschen, die sich regelmäßig zum Austausch und zur Weiterbildung treffen und sich das Ziel gesetzt haben, einen Hackerspace zu gründen.  
 Unsere Treffen begannen 2019 im AStA der TH Bingen.  
 Seit 2023 sind wir ein gemeinnütziger, eingetragener Verein. In dieser Struktur wollen wir unserem Ziel, einen Hackerspace zu eröffnen, einen Schritt näherkommen. 2025 konnten wir dadurch unseren ersten eigenen Raum anmieten.  
-Aktuell treffen wir uns aktuell im JuZ Bingen und in unserem Raum auf dem Racke-Gelände in der Gaustraße 22-32. Siehe [Treffen](/treffen) für mehr Informationen zur Anreise.
+Aktuell treffen wir uns dienstags im JuZ Bingen und demnächst auch freitags in unserem neuen Raum in Gaulsheim. Siehe [Treffen](/treffen) für mehr Informationen zur Anreise.
 
 ![Treffen im JuZ. Hacker sitzen am Tisch mit Laptops](/assets/images/binhackers.jpg)
 
