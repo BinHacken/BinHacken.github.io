@@ -3,6 +3,7 @@ layout: post
 author: Subjekt_91
 title: "Macherdaach"
 date: 2025-09-02
+excerpt: "Wir machen einen Stand auf dem Macherdaach des ZTL in Landau."
 ---
 
 ## Komm zum Macherdaach nach Landau

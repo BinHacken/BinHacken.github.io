@@ -11,6 +11,7 @@ hide_title: true
 <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
+    <p>{{ post.excerpt }} <a href="{{ post.url | relative_url }}">weiterlesen</a></p>
 </li>
 {% endfor %}
 </ul>
