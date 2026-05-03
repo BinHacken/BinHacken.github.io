@@ -7,8 +7,8 @@ hide_title: true
 ## TL;DR
 
 - Dienstag: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
-- Freitag: Offener Space (ab Mitte Mai 2026 im neuen Space)
-- 1. Samstag im Monat: Gaming Theke im [JuZ](https://www.openstreetmap.org/node/1613115329)
+- Freitag: Offener Space in unseren Räumlichkeiten in Bingen-Gaulsheim (https://www.openstreetmap.org/way/559447251)
+- jeden 1. Samstag im Monat: Gaming Theke im [JuZ](https://www.openstreetmap.org/node/1613115329)
 
 → Immer ab 19:00 Uhr
 
@@ -29,8 +29,15 @@ Der Eingang ist auf der Rückseite, links durchs Tor.
 
 ![Eingang JuZ Bingen](/assets/images/binhacken-JuZ-Anfahrt-web.svg)
 
-## Offener Space (ab Mitte Mai 2026 im neuen Space)
+## Offener Space in Bingen-Gaulsheim
 
 Freitags ab 19:00 Uhr treffen wir uns auch in unserem eigenen Raum. Hier ist es etwas kleiner und ruhiger als im JuZ, aber umso angenehmer für das Arbeiten an Projekten oder anderen Bastelein.
 
-Wir sind derzeit mitten im Umzug zu unserem neuen Space, sobald die öffentlichen Treffen am neuen Ort losgehen, werden sie hier mitgeteilt.
+Adresse:
+[Mainzer Straße 439](https://www.openstreetmap.org/way/559447251)
+
+![Übersichtskarte](/assets/images/karte_space_gaulsheim_uebersicht.jpg)
+
+![Karte Space Gaulsheim](/assets/images/karte_space_gaulsheim_nah.jpg)
+
+<a href="https://www.openstreetmap.org/copyright"><sup>Map data from Openstreetmap</sup></a>
