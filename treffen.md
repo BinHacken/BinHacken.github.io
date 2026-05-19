@@ -7,7 +7,7 @@ hide_title: true
 ## TL;DR
 
 - Dienstag: Chaostreff im [JuZ](https://www.openstreetmap.org/node/1613115329)
-- Freitag: Offener Space in unseren Räumlichkeiten in Bingen-Gaulsheim (https://www.openstreetmap.org/way/559447251)
+- Freitag: Offener Space in unseren [Räumlichkeiten in Bingen-Gaulsheim](https://www.openstreetmap.org/way/559447251)
 - jeden 1. Samstag im Monat: Gaming Theke im [JuZ](https://www.openstreetmap.org/node/1613115329)
 
 → Immer ab 19:00 Uhr
